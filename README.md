@@ -1,4 +1,4 @@
-**JavaScript Interview Programming Questions**
+# JavaScript Interview Programming Questions #
 
 A collection of beginner-friendly JavaScript programming questions and solutions created while learning JavaScript fundamentals and preparing for software developer interviews.
 
