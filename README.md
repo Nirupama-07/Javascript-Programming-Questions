@@ -16,3 +16,5 @@ A collection of beginner-friendly JavaScript programming questions and solutions
 9. Sum Of Numbers
 10. Multiplication Table
 11. Count Digits
+12. Sum Of Digits
+13. Check Palindrome Number
